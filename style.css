@@ -58,7 +58,7 @@ body {
 .header {
   /* background: radial-gradient(#fff, #E8E2DB); */
   background: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)),
-    url("./img/pexels-scott-webb-305833.jpg"); /*Photo by Scott Webb from Pexels */
+    url("./img/heroImg.avif"); /*Photo by Scott Webb from Pexels */
   min-height: 75vh;
   background-size: cover;
   background-position: center;
